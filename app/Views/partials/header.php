@@ -7,13 +7,13 @@
 			<li class="menu-toggle">
 				<button onclick="toggleMenu();">&#9776;</button>
 			</li>
-			<li class="menu-item hidden"><a href="#">Home</a></li>
+			<li class="menu-item hidden"><a href="/home">Home</a></li>
 			<li class="menu-item hidden"><a href="#">About Us</a></li>
 			<li class="menu-item hidden"><a href="#">News</a></li>
 			<li class="menu-item hidden"><a href="#" >Events</a></li>
 			<li class="menu-item hidden"><a href="#">Menu</a></li>
 			<li class="menu-item hidden"><a href="#">Contact Us</a></li>
-			<li class="login menu-item hidden"><a href="#">Login</a></li>
+			<li class="login menu-item hidden"><a href="/login">Login</a></li>
 		</ul>
 	</div>
 </header>

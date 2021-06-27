@@ -1,12 +1,12 @@
 <?= $this->extend("layouts/default") ?>
 
+<!-- content -->
 <?= $this->section("content") ?>
 
 <section>
 	<?= $this->include("partials/heroe") ?>
 </section>
 
-<!-- content -->
 <section>
 	<h1>About this page</h1>
 	<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
